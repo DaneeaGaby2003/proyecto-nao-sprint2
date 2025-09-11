@@ -1,1 +1,4 @@
+
 Documento B - línea 1 (diferente a A)
+Documento A - línea 1
+
